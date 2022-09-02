@@ -22,7 +22,7 @@ clients = {
         "loan_amount": 50,
          },
     2393: {
-        "name": "Bret Hart",
+        "name": "Bret Hitman Hart",
         "dob": date(1985, 2, 5),
         "loan_amount": 50,
          },
