@@ -24,7 +24,7 @@ clients = {
     2393: {
         "name": "Hulk Hogan",
         "dob": date(1985, 2, 5),
-        "loan_amount": 51,
+        "loan_amount": 52,
          },
     }
 
